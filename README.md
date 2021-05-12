@@ -1,6 +1,6 @@
 # Pilot-Your-Plane
 
-Our project “PILOT YOUT PLANE” is similar to an arcade style game. The goal for the user is to
+“PILOT YOUT PLANE” is similar to an arcade style game. The goal for the user is to
 go as far as possible without crash landing and try to score maximum points by passing through
 hoops that come along the way. With only a few controls at one’s disposal, this is one of those
 “easy to learn, difficult to master” situations.<br><br>
